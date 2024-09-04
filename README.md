@@ -32,4 +32,8 @@ Dominoes game made in C during the second semester of college
 ## Rules
   ![image](https://github.com/user-attachments/assets/a0ad3499-2fa8-4af7-a768-1fb2f4f708f7)
 
- 
+## Collaborations 
+  João Alfredo
+  João Guilherme Costa Couto
+  Luis Augusto Coelho de Souza
+  Matheus Heimrath Barbosa
